@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="440" viewBox="0 0 1280 440" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="440" gradientUnits="userSpaceOnUse"><stop stop-color="#0C1727"/><stop offset="1" stop-color="#122E35"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1280" y2="0" gradientUnits="userSpaceOnUse"><stop stop-color="#84E1C1"/><stop offset="1" stop-color="#B5C8F1"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" stroke="#D2E9EF" stroke-opacity=".045"/></pattern>
+  </defs>
+  <rect width="1280" height="440" rx="20" fill="url(#bg)"/>
+  <rect width="1280" height="440" rx="20" fill="url(#grid)"/>
+  <rect x="48" y="48" width="35" height="3" rx="1.5" fill="#84E1C1"/>
+  <text x="95" y="55" font-family="Arial,Helvetica,sans-serif" font-size="13" letter-spacing="3" fill="#B5CACF">JULIANO SIG / ENGINEERING</text>
+  <text x="48" y="147" font-family="Arial,Helvetica,sans-serif" font-size="66" font-weight="700" letter-spacing="-2.5" fill="#F4F7F4">AI Engineer.</text>
+  <text x="48" y="209" font-family="Arial,Helvetica,sans-serif" font-size="35" font-weight="500" letter-spacing="-1" fill="url(#accent)">From agent to real-world action.</text>
+  <text x="50" y="260" font-family="Arial,Helvetica,sans-serif" font-size="19" fill="#AFC3CA">Agent infrastructure · Browser automation</text>
+  <text x="50" y="291" font-family="Arial,Helvetica,sans-serif" font-size="19" fill="#AFC3CA">Systems thinking. Product execution.</text>
+  <path d="M48 342H1232" stroke="#9FC5CB" stroke-opacity=".18"/>
+  <circle cx="55" cy="385" r="4" fill="#84E1C1"/>
+  <text x="71" y="391" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#DCE9E8">Creator of easi.run</text>
+  <text x="1232" y="391" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="15" letter-spacing="1" fill="#AFC3CA">RUST / PYTHON / TYPESCRIPT</text>
+  <g font-family="Arial,Helvetica,sans-serif">
+    <rect x="852" y="85" width="336" height="224" rx="14" fill="#0B1926" stroke="#35555F"/>
+    <path d="M852 121H1188" stroke="#35555F"/>
+    <circle cx="872" cy="103" r="3" fill="#84E1C1"/><circle cx="884" cy="103" r="3" fill="#6A8792"/><circle cx="896" cy="103" r="3" fill="#6A8792"/>
+    <text x="1168" y="108" text-anchor="end" font-size="10" letter-spacing="1.5" fill="#89A8B3">THE EXECUTION LAYER</text>
+    <rect x="875" y="148" width="112" height="48" rx="7" fill="#17323B" stroke="#48716F"/>
+    <text x="931" y="178" text-anchor="middle" font-size="15" fill="#E6F2ED">AI agent</text>
+    <path d="M987 172H1037M1031 166L1037 172L1031 178" stroke="#84E1C1" stroke-width="1.5"/>
+    <text x="1012" y="156" text-anchor="middle" font-size="9" fill="#AFC3CA">MCP</text>
+    <rect x="1040" y="148" width="125" height="48" rx="7" fill="#17323B" stroke="#48716F"/>
+    <text x="1102" y="178" text-anchor="middle" font-size="15" fill="#E6F2ED">Browser</text>
+    <path d="M1102 196V224H1018" stroke="#84E1C1" stroke-width="1.5"/>
+    <rect x="875" y="211" width="143" height="42" rx="7" fill="#1D2B40" stroke="#455874"/>
+    <text x="946" y="237" text-anchor="middle" font-size="13" fill="#D3DEEF">Human control</text>
+    <circle cx="885" cy="282" r="3" fill="#84E1C1"/>
+    <text x="897" y="286" font-size="11" letter-spacing=".7" fill="#AFC3CA">VISIBLE · PERSISTENT · SELF-HOSTED</text>
+  </g>
+</svg>
