@@ -1,0 +1,29 @@
+{
+  "source": "https://github.com/julianosig/easi.run/blob/e823c9388f92f45ce40f0bfad9a0f071c910131f/docs/benchmark.md",
+  "benchmark_date": "2026-10-21",
+  "measurement": "published headless medians; not rerun",
+  "text_scroll": {
+    "bitrate_unit": "kbit/s",
+    "easi_run_bitrate": 1862,
+    "kasmvnc_bitrate": 16433,
+    "easi_run_ssim": 0.990,
+    "kasmvnc_ssim": 0.977
+  },
+  "typing": {
+    "latency_unit": "ms",
+    "easi_run_p50": 28,
+    "easi_run_p95": 37,
+    "kasmvnc_p50": 69,
+    "kasmvnc_p95": 82
+  },
+  "transform": {
+    "frame_rate_unit": "fps",
+    "easi_run": 37.7,
+    "kasmvnc": 24.4
+  },
+  "notes": [
+    "The full-motion transform result missed the 55 fps target.",
+    "KasmVNC used less memory on every measured fixture.",
+    "Results describe the published hardware, fixtures and configuration; they are not customer outcomes."
+  ]
+}

@@ -4,6 +4,8 @@
 
 [GitHub](https://github.com/julianosig) · [easi.run](https://easi.run) · [X / contact](https://x.com/jul1anodev)
 
+[Download one-page resume](./Juliano-Sig-Resume.pdf) · [Engineering case study](./EASI-CASE-STUDY.md) · [Agent workflow example](./AGENT-WORKFLOW.md)
+
 I build software across the systems, backend and interface layers, with a current focus on the infrastructure that lets AI agents interact with real applications. I'm the founder of Shimpz and the creator of easi.run.
 
 ## Selected engineering experience

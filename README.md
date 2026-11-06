@@ -2,7 +2,8 @@
 
 <p align="center">
   <a href="https://easi.run"><strong>Try what I build ↗</strong></a> &nbsp; · &nbsp;
-  <a href="./EXPERIENCE.md">Engineering experience</a> &nbsp; · &nbsp;
+  <a href="./EXPERIENCE.md">Experience</a> &nbsp; · &nbsp;
+  <a href="./Juliano-Sig-Resume.pdf">Resume PDF</a> &nbsp; · &nbsp;
   <a href="https://x.com/jul1anodev">Talk to me on X</a>
 </p>
 
@@ -29,12 +30,15 @@ My work connects the agent to the real application: browser sessions, APIs, perm
 
 **[Source ↗](https://github.com/julianosig/easi.run) · [Live demo ↗](https://easi.run/demo/) · [Architecture ↗](https://github.com/julianosig/easi.run/blob/main/docs/architecture.md) · [Security model ↗](https://github.com/julianosig/easi.run/blob/main/docs/security.md) · [Benchmarks ↗](https://github.com/julianosig/easi.run/blob/main/docs/benchmark.md)**
 
+**Read the engineering:** [Architecture decisions & measured results](./EASI-CASE-STUDY.md) · [Reproducible agent workflow](./AGENT-WORKFLOW.md)
+
+In the published headless benchmark, text scrolling used **1,862 kbit/s versus 16,433 kbit/s** for KasmVNC, with SSIM of 0.990 versus 0.977. Typing input-to-draw p50 was **28 ms versus 69 ms**. These are laboratory measurements from 2026-10-21; the case study includes conditions, missed targets and resource tradeoffs.
+
 ### More of my engineering work
 
 | Project | Focus | Stack |
 | :--- | :--- | :--- |
 | **[pyhouse](https://github.com/julianosig/pyhouse)** | A Python query-building library for ClickHouse, with entities, filters, joins, aggregation and pagination | Python · ClickHouse |
-| **[chrome-remote](https://github.com/julianosig/chrome-remote)** | Earlier remote-browser experiments with container setup, network configuration and automation scripts | Python · Docker · Linux |
 | **[cryptoarbs-front](https://github.com/julianosig/cryptoarbs-front)** | Application frontend with authentication, account settings, exchange credentials and subscription screens | SvelteKit · TypeScript · Tailwind CSS |
 
 These repositories show different stages of my work, including experiments and earlier implementations. **[Read the experience notes →](./EXPERIENCE.md)** for scope and technical context.
